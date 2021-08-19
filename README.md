@@ -15,3 +15,7 @@ The app has four primary objectives:
 ![banner](https://user-images.githubusercontent.com/75068207/129928962-fd6c3ee7-edf7-4cfd-97c9-e6164bb83bb1.png)
 
 The app is available for download on the Google Play Store and will be on the Apple App Store shortly.
+
+The project code can run as iOS, Android and progressive web app.
+
+Alternatively an APK file is available.
