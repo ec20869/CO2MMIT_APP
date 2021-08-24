@@ -21,3 +21,5 @@ https://play.google.com/store/apps/details?id=com.co2mmit
 The project code can run as iOS, Android and progressive web app.
 
 Alternatively an APK file is available.
+
+Developer - Christa Dobson ec20869@qmul.ac.uk
